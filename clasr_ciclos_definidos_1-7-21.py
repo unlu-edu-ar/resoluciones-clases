@@ -30,6 +30,7 @@ def factorial(numero):
         acumulador = acumulador * factorial
     return acumulador
 
+
 n = int (input(' ingrese un numero: '))
 print(factorial(n))
 
