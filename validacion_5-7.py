@@ -10,7 +10,7 @@
 
 edad = input('Edad: ')
 no_quiero_salir = True
-while ((not(edad.isdigit()) or int(edad)<18 or int(edad)>99) and no_quiero_salir):
+while ((not(edad.isjdigit()) or int(edad)<18 or int(edad)>99) and no_quiero_salir):
     print('La edad no es valida')
     edad = input("Ingrese una edad Vallida: . -1 para salir") 
     if edad == '-1':
