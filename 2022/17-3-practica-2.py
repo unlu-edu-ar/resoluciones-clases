@@ -4,6 +4,7 @@
 # El programa debe seguir mostrando el resultado de multiplicar ambos valores
 
 # numero1 = int(input ('ingrese valor'))
+# numero1 = int(input ('ingrese valor'))
 
 
 numero1 = int(input('ingrese valor para numero 1: '))
