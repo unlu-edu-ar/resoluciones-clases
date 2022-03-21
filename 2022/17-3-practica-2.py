@@ -7,6 +7,7 @@
 
 
 numero1 = int(input('ingrese valor para numero 1: '))
+# numero1 = int(input('ingrese valor para numero 1: '))
 numero2 = int(input('ingrese valor para numero 2: '))
 
 # print(numero1)
